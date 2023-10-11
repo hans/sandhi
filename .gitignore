@@ -1,0 +1,15 @@
+.cache
+.DS_Store
+.snakemake
+.ipython
+.ipynb_checkpoints
+.jupyter
+.local
+
+data
+intermediates
+cedict_ts.u8
+*.zip
+*.txt
+*.csv
+*.log

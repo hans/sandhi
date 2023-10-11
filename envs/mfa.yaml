@@ -1,0 +1,7 @@
+# Conda spec for montreal forced aligner
+channels:
+  - conda-forge
+dependencies:
+  - montreal-forced-aligner=2.0.6
+  - sqlalchemy=1.4.3
+  - praatio=5.1.1
